@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Manchester City Transfer & Player Updates</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: url('https://example.com/your-background-image.jpg') no-repeat center center fixed;
+      background-size: cover;
+      color: white;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+    header {
+      background-color: rgba(0, 0, 0, 0.7);
+      padding: 20px;
+    }
+    h1 {
+      font-size: 2.5em;
+      color: #ffcc00;
+    }
+    .content {
+      margin: 30px;
+      padding: 20px;
+      background-color: rgba(0, 0, 0, 0.6);
+      border-radius: 10px;
+    }
+    h2 {
+      font-size: 1.8em;
+      color: #ffcc00;
+    }
+    .transfer-list, .player-focus, .manager-insight, .match-summary {
+      text-align: left;
+      margin: 20px 0;
+      padding: 10px;
+      background-color: rgba(255, 255, 255, 0.1);
+      border-radius: 5px;
+    }
+    .transfer-list ul, .player-focus ul, .manager-insight ul, .match-summary ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    .transfer-list li, .player-focus li, .manager-insight li, .match-summary li {
+      font-size: 1.2em;
+      margin: 10px 0;
+    }
+    .highlight {
+      font-weight: bold;
+      color: #ffcc00;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Manchester City Transfer & Player Updates</h1>
+  </header>
+  
+  <div class="content">
+    <!-- Match Summary Section -->
+    <section class="match-summary">
+      <h2>Match Summary: Manchester City vs. West Ham</h2>
+      <ul>
+        <li><span class="highlight">Date:</span> January 4, 2025</li>
+        <li><span class="highlight">Final Score:</span> Manchester City 4 - 1 West Ham</li>
+        <li><span class="highlight">Key Moments:</span> 
+            Manchester City dominated with two goals from <span class="highlight">Erling Haaland</span> at the 42nd and 55th minutes, 
+            a third goal from <span class="highlight">Phil Foden</span> at the 58th minute, and an own goal at the 10th minute.
+            <span class="highlight">Niclas Füllkrug</span> scored for West Ham in the 71st minute, but it was not enough to mount a comeback.
+        </li>
+        <li><span class="highlight">Man of the Match:</span> Erling Haaland – Scored twice, helping City secure a dominant victory.</li>
+        <li><span class="highlight">Notable Performances:</span> Phil Foden was impressive with his goal, and Jack Grealish’s creativity in attack made a significant impact.</li>
+      </ul>
+    </section>
+
+    <!-- Transfer Rumors Section -->
+    <section class="transfer-list">
+      <h2>Current Transfer Rumors</h2>
+      <ul>
+        <li><span class="highlight">Abdukodir Khusanov</span> (Defender, Lens) – Manchester City is reportedly in talks for the young Uzbeki defender. Valued at £20 million, Khusanov is a rising star in Ligue 1.</li>
+        <li><span class="highlight">Omar Marmoush</span> (Forward, Eintracht Frankfurt) – The Egyptian forward is impressing with his 13 goals this season and could be the forward City is looking for, with a £50 million price tag.</li>
+        <li><span class="highlight">Matty Young</span> (Goalkeeper, Sunderland) – The 18-year-old is making waves with a string of clean sheets while on loan at Salford, and City is keeping an eye on him for future seasons.</li>
+      </ul>
+    </section>
+
+    <!-- Manager's Insight Section -->
+    <section class="manager-insight">
+      <h2>Pep Guardiola's Insight</h2>
+      <ul>
+        <li>Guardiola is focusing on intelligent acquisitions to strengthen Manchester City's squad and address ongoing injury concerns.</li>
+        <li>The manager has emphasized the importance of making tactical moves in the transfer market to maintain competitive form in the Premier League.</li>
+      </ul>
+    </section>
+
+    <!-- Player Focus Section -->
+    <section class="player-focus">
+      <h2>Player Focus: Kevin De Bruyne</h2>
+      <ul>
+        <li><span class="highlight">Kevin De Bruyne</span> is recovering from a hamstring injury and has been vocal about his commitment to returning to full fitness.</li>
+        <li>De Bruyne’s future at the club remains uncertain, as his contract expires in June 2025, but he has made it clear that his priority is to regain peak performance.</li>
+      </ul>
+    </section>
+  </div>
+</body>
+</html>
